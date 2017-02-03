@@ -1,0 +1,16 @@
+Per implementare il nostro progetto abbiamo a disposizione tutte le nostre conoscenze informatiche. 
+
+SOFTWARE:
+Word 2016
+Arduino 1.6.4
+Sublime Text 2.0.2
+MarkdownPad 2
+Apache (inserire versione pietro)
+PHP (inserire versione pietro)
+MySQL (inserire versione fede/pietro)
+GanttProject 2.8
+
+HARDWARE:
+4 pc portatili
+Arduino Ethernet
+tag RFID
