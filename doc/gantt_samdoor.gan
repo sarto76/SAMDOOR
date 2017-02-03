@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2017-01-30" view-index="0" gantt-divider-location="427" resource-divider-location="300" version="2.8.1" locale="it">
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2017-01-15" view-index="0" gantt-divider-location="427" resource-divider-location="300" version="2.8.1" locale="en_US">
     <description/>
     <view zooming-state="default:6" id="gantt-chart">
-        <field id="tpd3" name="Nome" width="259" order="0"/>
-        <field id="tpd4" name="Data d'inizio" width="70" order="1"/>
-        <field id="tpd5" name="Data di fine" width="94" order="2"/>
+        <field id="tpd3" name="Name" width="259" order="0"/>
+        <field id="tpd4" name="Begin date" width="70" order="1"/>
+        <field id="tpd5" name="End date" width="94" order="2"/>
     </view>
     <view id="resource-table">
-        <field id="0" name="Nome" width="210" order="0"/>
-        <field id="1" name="Ruolo predefinito" width="86" order="1"/>
+        <field id="0" name="Name" width="210" order="0"/>
+        <field id="1" name="Default role" width="86" order="1"/>
     </view>
     <!-- -->
     <calendars>
@@ -48,8 +48,8 @@
             <task id="16" name="Creazione database" meeting="false" start="2017-02-10" duration="6" complete="0" expand="true"/>
             <task id="18" name="Collegamento ethernet arduino" meeting="false" start="2017-02-10" duration="6" complete="0" expand="true"/>
             <task id="27" name="Modulo scrittura/lettura SD" meeting="false" start="2017-02-10" duration="11" complete="0" expand="true"/>
+            <task id="22" name="Interfaccia web" color="#8cb6ce" meeting="false" start="2017-02-10" duration="26" complete="0" expand="true"/>
             <task id="24" name="Collegamento arduino - server" meeting="false" start="2017-02-17" duration="16" complete="0" expand="true"/>
-            <task id="22" name="Interfaccia web" meeting="false" start="2017-02-17" duration="26" complete="0" expand="true"/>
             <task id="31" name="Implementare apriporta" meeting="false" start="2017-03-10" duration="1" complete="0" expand="true"/>
             <task id="25" name="Gestione dei permessi delle porte" meeting="false" start="2017-03-31" duration="6" complete="0" expand="true"/>
             <task id="29" name="Leggere/scrivere dati dal/sul server" meeting="false" start="2017-03-31" duration="6" complete="0" expand="true"/>
