@@ -137,13 +137,12 @@ void loop() {
     if (isServerReachable) {
       // chiede se può aprire la porta o no e invia log al server
     } else {
-      Serial.println("DIOCAN");
+      Serial.println("banana");
       // TODO: chiede se può aprire la porta o no dall'SD e modifica isUserAccessed
       String authUsers = "";
       File permissionsFile = SD.open(PERMISSIONS_FILE, FILE_WRITE);
-      Serial.println("DIOCAN2");
       if (permissionsFile) {
-        Serial.println("biopane");
+        Serial.println("banana2");
         permissionsFile.close();
         permissionsFile = SD.open(PERMISSIONS_FILE, FILE_READ);
         while (permissionsFile.available()) {
@@ -156,7 +155,6 @@ void loop() {
         }
         permissionsFile.close();
       } else {
-        Serial.println("DIOCAN4");
       }
       // Apre il logfile
       File dataFile = SD.open(LOG_FILE, FILE_WRITE);
