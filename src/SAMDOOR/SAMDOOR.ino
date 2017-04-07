@@ -45,7 +45,7 @@ const int RFID_STOP = 0x0D;
 // Definisce il nome del file di log
 const String LOG_FILE = "logfile.txt";
 // Definisce il nome del file dei permessi dell'SD
-const String PERMISSIONS_FILE = "permissions.txt";
+const String PERMISSIONS_FILE = "perms.txt";
 /* SETUP */
 void setup() {
   Serial.begin(2400);
