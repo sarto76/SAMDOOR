@@ -1,0 +1,6 @@
+8.20 - 8.50: Preparazione postazione + Riunione fra il team
+8.50 - 9.15: Modifica al form che serve per dare un permesso a un utente + aggiunta controllo che la data e ora di fine del permesso non sia minore della data di inizio
+9.15 - 12.20: Inizio aggiunta di delete e edit ai permessi + organizzazione gita di quarta
+
+13.15 - 14.45: Fine aggiunta di delete e edit ai permessi, inizio visualizzazione permessi per aula e pensato ai controlli da svolgere per non sovrapporre i permessi
+15.00 - 15.45: colloquio con federico, stesura diario e ordine postazione

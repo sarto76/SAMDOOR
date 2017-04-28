@@ -1,0 +1,18 @@
+Descrizione: Test del controllo della connessione con il database
+
+Riuscito a collegarsi con il server alla pagina conncheck.php
+
+DATABASE NON PRESENTE
+1. Inviata richiesta POST al server priva di dati
+2. Il server ha ricevuto la richiesta POST
+3. Il server ha eseguito un ping al database
+4. Il database non era presente sulla macchina, dunque ha ritornato connection: failed 
+5. L'Arduino ha stampato sul serial monitor Connessione con il database fallita
+
+DATABASE PRESENTE
+1. Inviata richiesta POST al server priva di dati
+2. Il server ha ricevuto la richiesta POST
+3. Il server ha eseguito un ping al database
+4. Il database era presente sulla macchina, dunque ha ritornato connection: ok 
+5. L'Arduino ha stampato sul serial monitor Connessione con il database riuscita
+

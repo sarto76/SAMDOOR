@@ -1,0 +1,15 @@
+PROTOCOLLI DI TEST DA ESEGUIRE
+--
+* Unit test *
+
+1. 	Connessione al server
+2. 	Trasferimento dati con richieste HTTP POST
+
+3. 	RTC
+4. 	SD
+5. 	Apriporta
+
+* Integration test *
+
+1. 	Apertura porta con badge con internet
+2. 	Apertura porta con badge senza internet

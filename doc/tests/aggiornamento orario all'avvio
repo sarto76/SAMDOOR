@@ -1,0 +1,7 @@
+aggiornamento orario test
+
+Messo orario hard coded non corrispondente all'orario giusto nell'RTC
+Letto l'orario dall'RTC
+Aggiornato codice con aggiornamento dal server
+Ricaricato il programma con aggiornamento dal server
+Letto l'orario
