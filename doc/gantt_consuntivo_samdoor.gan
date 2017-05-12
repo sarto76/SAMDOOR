@@ -33,19 +33,19 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="0" name="ANALISI" meeting="false" start="2017-02-03" duration="6" complete="0" expand="true">
-            <task id="1" name="Intervista col mandante" color="#8cb6ce" meeting="false" start="2017-02-03" duration="1" complete="0" expand="true"/>
-            <task id="3" name="Analisi generale del progetto" meeting="false" start="2017-02-03" duration="1" complete="0" expand="true"/>
-            <task id="7" name="Analisi dei requisiti" meeting="false" start="2017-02-03" duration="6" complete="0" expand="true"/>
+        <task id="0" name="ANALISI" meeting="false" start="2017-01-27" duration="1" complete="0" expand="true">
+            <task id="1" name="Intervista col mandante" color="#8cb6ce" meeting="false" start="2017-01-27" duration="1" complete="0" expand="true"/>
+            <task id="3" name="Analisi generale del progetto" meeting="false" start="2017-01-27" duration="1" complete="0" expand="true"/>
+            <task id="7" name="Analisi dei requisiti" meeting="false" start="2017-01-27" duration="1" complete="0" expand="true"/>
         </task>
         <task id="8" name="Progettazione" meeting="false" start="2017-02-03" duration="1" complete="0" expand="true">
             <task id="10" name="Pianificazione" meeting="false" start="2017-02-03" duration="1" complete="0" expand="true"/>
             <task id="11" name="Schemi di progettazione" meeting="false" start="2017-02-03" duration="1" complete="0" expand="true"/>
         </task>
-        <task id="13" name="Implementazione" meeting="false" start="2017-02-03" duration="46" complete="0" expand="true">
+        <task id="13" name="Implementazione" meeting="false" start="2017-02-03" duration="71" complete="0" expand="true">
             <task id="14" name="Creazione server" meeting="false" start="2017-02-03" duration="1" complete="0" expand="true"/>
-            <task id="17" name="Implementazione modulo RFID" meeting="false" start="2017-02-03" duration="1" complete="0" expand="true"/>
-            <task id="16" name="Creazione database" meeting="false" start="2017-02-03" duration="6" complete="0" expand="true"/>
+            <task id="17" name="Implementazione modulo RFID" meeting="false" start="2017-02-03" duration="6" complete="0" expand="true"/>
+            <task id="16" name="Creazione database" meeting="false" start="2017-02-03" duration="10" complete="0" expand="true"/>
             <task id="18" name="Collegamento ethernet arduino" meeting="false" start="2017-02-10" duration="1" complete="0" expand="true"/>
             <task id="27" name="Modulo scrittura/lettura SD" meeting="false" start="2017-02-10" duration="11" complete="0" expand="true"/>
             <task id="22" name="Interfaccia web" meeting="false" start="2017-02-10" duration="26" complete="0" expand="true"/>
@@ -53,11 +53,13 @@
             <task id="31" name="Implementare apriporta" meeting="false" start="2017-03-10" duration="1" complete="0" expand="true"/>
             <task id="25" name="Gestione dei permessi delle porte" meeting="false" start="2017-03-31" duration="6" complete="0" expand="true"/>
             <task id="29" name="Leggere/scrivere dati dal/sul server" meeting="false" start="2017-03-31" duration="6" complete="0" expand="true"/>
+            <task id="41" name="Riscrittura modulo SD" meeting="false" start="2017-05-05" duration="6" complete="0" expand="true"/>
+            <task id="38" name="Debugging modulo RFID" meeting="false" start="2017-05-12" duration="1" complete="0" expand="true"/>
         </task>
-        <task id="33" name="Test" meeting="false" start="2017-04-28" duration="11" complete="0" expand="true">
-            <task id="34" name="Integrazione e test" meeting="false" start="2017-04-28" duration="11" complete="0" expand="true"/>
+        <task id="33" name="Test" meeting="false" start="2017-04-07" duration="26" complete="0" expand="true">
+            <task id="34" name="Integrazione e test" meeting="false" start="2017-04-07" duration="26" complete="0" expand="true"/>
         </task>
-        <task id="36" name="Documentazione" meeting="false" start="2017-02-03" duration="71" complete="0" expand="true"/>
+        <task id="36" name="Documentazione" meeting="false" start="2017-01-27" duration="76" complete="0" expand="true"/>
     </tasks>
     <resources/>
     <allocations/>
